@@ -1,1 +1,1 @@
-# Copyright @ ReinforceLearningGroup
+# Created by ReinforceLearningGroup
