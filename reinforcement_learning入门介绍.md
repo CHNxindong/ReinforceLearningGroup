@@ -12,8 +12,10 @@
 《DQN 从入门到放弃系列1~7》：https://zhuanlan.zhihu.com/p/21609472?refer=intelligentunit
 
 ###如果想针对性的找论文和实现代码建议看这部分链接
-https://github.com/junhyukoh/deep-reinforcement-learning-papers
-https://github.com/aikorea/awesome-rl
+Github:https://github.com/junhyukoh/deep-reinforcement-learning-papers
+
+Github:https://github.com/aikorea/awesome-rl
+
 《知乎：强化学习（reinforcement learning)有什么好的开源项目、网站、文章推荐一下？》：https://www.zhihu.com/question/49230922
 http://blog.leanote.com/post/wjgaas@126.com/Reinforcement-Learning-List
 
