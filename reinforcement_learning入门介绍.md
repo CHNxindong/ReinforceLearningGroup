@@ -37,6 +37,7 @@ Book》(4-4\_赵英男同学上传)：群文件Reinforcement\_Learning\_An_Intro
 Csaba Szepesvari，《Algorithms for Reinforcement Learning》(粼音同学上传)：群文件2010 Algorithms for Reinforcement Learning.pdf
 
 《Reinforcement Learning State-of-the-Art》(4-4\_赵英男同学上传)：群文件Reinforcement Learning State-of-the-Art(Wiering M.A.).pdf
+
 ###公开课
 David silver，《UCL Course on RL》：http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 
@@ -45,6 +46,11 @@ Andrew Ng，《cs229：Lecture 16》：https://www.youtube.com/watch?v=RtxI449Zj
 Pieter Abbeel，《CS188 Artificial Intelligence：Lecture 8~11》：https://www.youtube.com/watch?v=i0o-ui1N35U
 
 Sergey Levine, John Schulman, Chelsea Finn，《CS 294: Deep Reinforcement Learning》：https://www.youtube.com/watch?v=aUrX-rP_ss4
+百度云链接：http://pan.baidu.com/s/1eSDVfDC 密码：bizt
+
+Katerina Fragkiadaki, Ruslan Satakhutdinov，《CMU 10703: Deep Reinforcement Learning and Control》：https://katefvision.github.io/
+
+Lex Fridman，《6.S094: Deep Learning for Self-Driving Cars》：http://selfdrivingcars.mit.edu/
 
 ###可以自己动手编程
 Stanford开发的入门课程作业－简化版无人车驾驶(参考知乎)http://web.stanford.edu/class/cs221/assignments/car/index.html
