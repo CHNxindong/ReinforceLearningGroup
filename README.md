@@ -17,7 +17,7 @@ Github:https://github.com/junhyukoh/deep-reinforcement-learning-papers
 Github:https://github.com/aikorea/awesome-rl
 
 《知乎：强化学习（reinforcement learning)有什么好的开源项目、网站、文章推荐一下？》：
-https://www.zhihu.com/question/49230922； 
+https://www.zhihu.com/question/49230922
 http://blog.leanote.com/post/wjgaas@126.com/Reinforcement-Learning-List
 
 
